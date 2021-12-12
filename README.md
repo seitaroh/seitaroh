@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Seitaroh</h1>
-<h3 align="center">beginner</h3>
 
 </p>
 
